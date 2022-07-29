@@ -1,0 +1,13 @@
+com\ace\ds\Course.class
+com\ace\dao\CourseRepoistory.class
+com\ace\config\JpaConfiguration.class
+com\ace\service\impl\StudentServiceImpl.class
+com\ace\ds\Student.class
+com\ace\controller\StudentController.class
+com\ace\controller\CourseController.class
+com\ace\Runner.class
+com\ace\service\CourseService.class
+com\ace\dao\StudentRepository.class
+com\ace\config\DataSourceConfiguration.class
+com\ace\service\StudentService.class
+com\ace\service\impl\CourseServiceImpl.class
